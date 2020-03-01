@@ -7,9 +7,9 @@
 ### Previous version: [Artificial Intelligence Arts, Fall 2019](https://github.com/aaaven/aiarts2019).
 
 #### Major updates in Spring 2020: 
-* 1. use [runwayML](https://runwayml.com/)
-* 2. use [Processing(Java)](https://processing.org/) to communicate with runwayML (for productive purpose)
-* 3. use Processing(Java) to code simple neural networks (week 03, 04)
-* 4. use [Keras](https://keras.io/), and [plaidML](https://github.com/plaidml/plaidml) as backend to use AMD GPU support on macOSX (to open the black box of neural networks)
-* 5. use [Jupyter notebook(https://jupyter.org/)] as IDE
-* 6. consider [Colab](https://colab.research.google.com/notebooks/welcome.ipynb) for training (TBA) 
+1. use [runwayML](https://runwayml.com/)
+2. use [Processing(Java)](https://processing.org/) to communicate with runwayML (for productive purpose)
+3. use Processing(Java) to code simple neural networks (week 03, 04)
+4. use [Keras](https://keras.io/), and [plaidML](https://github.com/plaidml/plaidml) as backend to use AMD GPU support on macOSX (to open the black box of neural networks)
+5. use [Jupyter notebook(https://jupyter.org/)] as IDE
+6. consider [Colab](https://colab.research.google.com/notebooks/welcome.ipynb) for training (TBA) 
