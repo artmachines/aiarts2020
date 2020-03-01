@@ -1,2 +1,1 @@
-# aiarts_S20
-Artificial Intelligence Arts at IMA, NYU Shanghai
+Artificial Intelligence Arts, Spring 2020 at IMA, NYU Shanghai
