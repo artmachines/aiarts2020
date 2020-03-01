@@ -16,7 +16,7 @@
     * 2. to open the black box of neural networks
 4. use [Keras](https://keras.io/), and [plaidML](https://github.com/plaidml/plaidml) backend to use AMD GPU support on macOSX (week 04 - week 08)
     * 1. to open the black box of neural networks 
-    * 2. to the workflow of setup a ML project
-    * 3. learn Keras (not required learning objective)
+    * 2. to learn the workflow of setup a ML project
+    * 3. to learn Keras (not required learning objective)
 5. use [Jupyter notebook(https://jupyter.org/)] as IDE
 6. consider [Colab](https://colab.research.google.com/notebooks/welcome.ipynb) for training (TBA) 
