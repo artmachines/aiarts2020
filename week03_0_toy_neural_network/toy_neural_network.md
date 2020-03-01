@@ -1,10 +1,12 @@
 ## Perceptron
 
 * what is a perceptron? 
-  ![perceptron](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Perceptron.svg/500px-Perceptron.svg.png)
+
+* ![perceptron](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Perceptron.svg/500px-Perceptron.svg.png)
 
 * classification
-  ![classification](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Perceptron_example.svg/500px-Perceptron_example.svg.png)
+
+* ![classification](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Perceptron_example.svg/500px-Perceptron_example.svg.png)
 
 ## Let's code, step by step:
 
