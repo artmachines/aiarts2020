@@ -1,10 +1,12 @@
-## Artificial Intelligence Arts at IMA, NYU Shanghai
-
+## Artificial Intelligence Arts
+### Spring 2020, at IMA, NYU Shanghai
 * Course Website: https://wp.nyu.edu/shanghai-ima-aiarts/
 * Instructor: [Aven Le Zhou](https://www.aven.cc/)
 * Class Schedule: 2:45 - 5:45 PM, Mondays
 
-### Previous version: [Artificial Intelligence Arts, Fall 2019](https://github.com/aaaven/aiarts2019).
+### Previous version: Fall 2019
+* [Artificial Intelligence Arts](https://github.com/aaaven/aiarts2019).
+* with ml5js and tensorflow.keras
 
 #### Major updates in Spring 2020: Mix runwayML (+ processing) and Keras (+ plaidML backend)
 1. use [runwayML](https://runwayml.com/) (through the 14 weeks learning)
