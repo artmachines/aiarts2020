@@ -10,9 +10,9 @@
 
 ## we will try:
 
-- Processing <--> OSC <--> runwayML
+- ~~Processing <--> OSC <--> runwayML~~
 
-- Processing <--> runwayML(OSC) <--> runwayML
+- ~~Processing <--> runwayML(OSC) <--> runwayML~~
   
 - Processing <--> runwayML(http) <--> runwayML
 
