@@ -14,7 +14,7 @@
 
 ## Major (technical setup) updates in Spring 2020: 
 
-I. Langurage: Mix runwayML + processing and Keras + plaidML, while F19 was using ml5js + tensorflow.keras:
+I. **Programming Language**: Mix runwayML + processing and Keras + plaidML, while F19 was using ml5js + tensorflow.keras:
   1. use [runwayML](https://runwayml.com/) (through the 14 weeks learning)
   2. use [Processing(Java)](https://processing.org/) to communicate with runwayML (for productive purpose)
   3. use Processing(Java) to code simple neural networks (week 03, 04)
@@ -25,6 +25,6 @@ I. Langurage: Mix runwayML + processing and Keras + plaidML, while F19 was using
       * 2. to learn the workflow of setup a ML project
       * 3. to learn Keras (not required learning objective)
 
-II. experiment with RunwayML and Colab to train while F19 was using Intel DevCloud:
+II. **Training**: experiment with RunwayML and Colab to train while F19 was using Intel DevCloud:
   1. use [Jupyter notebook(https://jupyter.org/)] as IDE
   2. consider [Colab](https://colab.research.google.com/notebooks/welcome.ipynb) for training (TBA) 
