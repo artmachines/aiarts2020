@@ -9,5 +9,6 @@
 
 Submit your work:
 
-1. fork and add/commit your own project in week03_projects/your_name
-2. submit pull request before Sunday
+1. fork course git repo to your local machine 
+2. add/commit/push your own project in week03_projects/your_name
+3. submit pull request before Sunday
