@@ -10,9 +10,9 @@
 
 ## we will try:
 
-- Processing <--> OSC <--> runwayML
+- ~~Processing <--> OSC <--> runwayML~~
 
-- Processing <--> runwayML(OSC) <--> runwayML
+- ~~Processing <--> runwayML(OSC) <--> runwayML~~
   
 - Processing <--> runwayML(http) <--> runwayML
 
@@ -250,7 +250,9 @@ or multi-pose:
   ]
 }
 ```
+### Index of each body parts in posenet: [more details](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
 
+![keypoints](keypointsID.png)
 
 
 
