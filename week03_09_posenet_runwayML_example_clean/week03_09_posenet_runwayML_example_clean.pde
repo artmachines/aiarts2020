@@ -1,6 +1,6 @@
 // example from George Profenza
 // adapted by aven (https://www.aven.cc)
-// artMahcines & IMNYU Shanghai
+// artMahcines & NYU Shanghai
 
 // aiarts, spring 2020
 // https://github.com/artmachines/aiarts2020
