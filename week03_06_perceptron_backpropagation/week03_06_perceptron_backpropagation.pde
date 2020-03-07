@@ -1,12 +1,21 @@
+// a single layer perceptron
+
+//by Aven Le ZHOU (https://www.aven.cc)
+// artMahcines & NYU Shanghai
+// aiarts, spring 2020
+// https://github.com/artmachines/aiarts2020
+
+
 Point [] pts;
 
-Perceptron neural_network = new Perceptron(2);
+float learning_rate = 0.00001;
+Perceptron neural_network = new Perceptron(2, learning_rate);
 
 void setup() {
   size(800, 800);
   background(200);
   rectMode(CENTER);
-  
+
   pts = new Point[1000];
 
   for (int i =0; i < pts.length; i ++) {
@@ -15,7 +24,7 @@ void setup() {
 }
 
 void draw() {
-  noLoop();
+  //noLoop();
 
   //dots, with position (x, y) as input, and color (0, 1) as output
 
@@ -39,4 +48,19 @@ void draw() {
     }
     ellipse(pt.x, pt.y, 8, 8);
   }
+
+  //train
+  int batch_size = 10;
+  for (int i = 0; i < batch_size; i++) {
+
+    //pts[i]
+    Point pt = pts[i];
+    float[] inputs = {pt.x, pt.y};
+    int true_val = pt.val;
+
+    neural_network.train(inputs, true_val);
+  }
+
+  printArray(neural_network.weights);
+  println();
 }

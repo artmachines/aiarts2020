@@ -1,3 +1,11 @@
+// a single layer perceptron
+
+//by Aven Le ZHOU (https://www.aven.cc)
+// artMahcines & NYU Shanghai
+// aiarts, spring 2020
+// https://github.com/artmachines/aiarts2020
+
+
 class Perceptron {
   float[] weights;
 
