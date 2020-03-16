@@ -1,6 +1,6 @@
 // convolution with sobel operator, gaussian blur & .etc
 
-//by Aven Le ZHOU (https://www.aven.cc)
+// by Aven Le ZHOU (https://www.aven.cc)
 // artMahcines & NYU Shanghai
 // aiarts, spring 2020
 // https://github.com/artmachines/aiarts2020

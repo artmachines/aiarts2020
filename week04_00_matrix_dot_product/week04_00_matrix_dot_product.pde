@@ -1,14 +1,14 @@
 // matrix
-// dot operation]
+// multiply operation
 
 // by Aven Le ZHOU (https://www.aven.cc)
 // artMahcines & NYU Shanghai
 // aiarts, spring 2020
 // https://github.com/artmachines/aiarts2020
 
-
 //For example, the dimension of the matrix below is 2 × 3 (read "two by three"), 
 // because there are two rows and three columns
+
 int[][] matrixA = {
   {3, 2, -1}, 
   {0, 4, 6}
@@ -20,6 +20,7 @@ int[][] matrixB= {
 };
 
 void setup() {
+  
   noLoop();
   int[][] matrix = matrixDot(matrixA, matrixB);
   for (int i = 0; i < matrix.length; i ++)printArray(matrix[i]);
