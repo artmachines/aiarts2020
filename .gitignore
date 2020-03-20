@@ -18,3 +18,4 @@ week04_04_more_benchmarking_samples
 .ipynb_checkpoints/
 week06_01_VGG/vgg16_1.h5
 week06_01_VGG/cats_and_dogs_filtered/*
+week06_02_VGG_filter_viz_beta/*.png
