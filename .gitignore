@@ -16,3 +16,5 @@ week04_02_keras_fashion_mnist/plaidml-keras-0-fashion_mnist.ipynb
 week04_04_more_benchmarking_samples
 
 .ipynb_checkpoints/
+week06_01_VGG/vgg16_1.h5
+week06_01_VGG/cats_and_dogs_filtered/*
