@@ -3,3 +3,19 @@
 examples/*
 
 week03_7_perceptron_trainning_viz/*
+
+week04_02_keras_fashion_mnist/.ipynb_checkpoints/VGG-checkpoint.ipynb
+week04_02_keras_fashion_mnist/.ipynb_checkpoints/resnet-checkpoint.ipynb
+week04_02_keras_fashion_mnist/.ipynb_checkpoints/resnet_training-checkpoint.ipynb
+week04_02_keras_fashion_mnist/VGG.ipynb
+week04_02_keras_fashion_mnist/resnet.ipynb
+week04_02_keras_fashion_mnist/resnet_training.ipynb
+week04_02_keras_fashion_mnist/fashion_mnist_test.h5
+week04_02_keras_fashion_mnist/plaidml-keras-0-fashion_mnist.ipynb
+
+week04_04_more_benchmarking_samples
+
+.ipynb_checkpoints/
+week06_01_VGG/vgg16_1.h5
+week06_01_VGG/cats_and_dogs_filtered/*
+week06_02_VGG_filter_viz_beta/*.png
